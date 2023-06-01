@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T04:15:08.008Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="i2Xd_4nUkC-gN1B-kn2p" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-01T05:07:35.280Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="hRZDv4dEds9ZXucW9wzw" version="21.3.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2238" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -57,7 +57,7 @@
             <mxRectangle width="29" height="225" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zcm2E6uYJEaqn9uGI2z3-132" value="userId: int&#xa;gameId: int&#xa;food: int&#xa;name char(50) NOT NULL&#xa;traps: int&#xa;isRat: bool&#xa;isAsh: bool&#xa;isKris: bool&#xa;isKyle: bool&#xa;tunnelCard: boo&#xa;walkCards: int&#xa;bikeCards: int&#xa;carCards: int&#xa;tileId: int" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="zcm2E6uYJEaqn9uGI2z3-130" vertex="1">
+        <mxCell id="zcm2E6uYJEaqn9uGI2z3-132" value="userId: int&#xa;gameId: int&#xa;tileId: int&#xa;food: int&#xa;name char(50) NOT NULL&#xa;traps: int&#xa;isRat: bool&#xa;isAsh: bool&#xa;isKris: bool&#xa;isKyle: bool&#xa;tunnelCard: bool&#xa;walkCards: int&#xa;bikeCards: int&#xa;carCards: int&#xa;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="zcm2E6uYJEaqn9uGI2z3-130" vertex="1">
           <mxGeometry x="29" width="221" height="225" as="geometry">
             <mxRectangle width="221" height="225" as="alternateBounds" />
           </mxGeometry>
